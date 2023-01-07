@@ -129,3 +129,57 @@ button {
 
 
 /* gradient-part design :end */
+
+/* footer design  */
+
+/* footer left side design  */
+.footer-container {
+    display: flex;
+    background-color: black;
+    color: #F8F8F8;
+    justify-content: center;
+}
+
+.footer-leftside-container {
+    margin-left: 20%;
+    padding: 3em;
+
+}
+
+.footer-leftside-container img {
+    width: 40px;
+    height: 40px;
+    margin-right: 0.3em;
+}
+
+.footer-leftside-container p {
+    padding-left: 0px;
+}
+
+.heading-font-size {
+    font-size: 30px;
+
+}
+
+/* footer right side design  */
+.footer-rightside-container {
+    margin-right: 20%;
+    padding: 3em;
+    margin-top: 1em;
+}
+
+#input-footer {
+    padding: 0.6em;
+    background-color: black;
+    border-radius: 5px;
+    border: 1px solid white;
+    color: white;
+
+}
+
+#subscribe-button {
+    padding: 0.6em;
+    width: 90px;
+    border-radius: 5px;
+    color: #F15B22;
+}
