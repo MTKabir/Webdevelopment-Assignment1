@@ -35,3 +35,58 @@ p {
 }
 
 /* Banner design end */
+
+/* previous year failure part start */
+.failure-container {
+    display: flex;
+    margin: 4em 20%;
+
+}
+
+.failure-image {
+    width: 50%;
+    margin-right: 3em;
+}
+
+.failure-image img {
+    width: 100%;
+}
+
+.failure-content {
+    width: 50%;
+    position: relative;
+    top: 5em;
+}
+
+.tick-container {
+    display: flex;
+    flex-direction: column;
+}
+
+
+/* previous year failure part end */
+
+/* my-plan part design start */
+.my-plan-top-conatiner {
+    margin: 0 20% 4em 20%;
+
+}
+
+.my-plan-top-conatiner>h1 {
+    text-align: center;
+    margin-bottom: 2em;
+}
+
+.my-plan-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-left: 1em;
+}
+
+.my-plan-container div {
+    margin-right: 3em;
+}
+
+/* my-plan part design end */
