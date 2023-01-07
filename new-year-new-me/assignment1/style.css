@@ -90,10 +90,56 @@ p {
 }
 
 /* my-plan part design end */
+/* bonus-part design  start*/
+.bonus-part-container img {
+    width: 150px;
+    height: 100px;
+
+}
+
+.bonus-heading {
+    text-align: center;
+
+}
+
+.bonus-part-content {
+    display: flex;
+    margin: 3em 22.5% 0 20%;
+}
+
+.bonus-part-content div {
+    margin-right: 2em;
+}
+
+.bonus-part-image1 {
+    background-color: #F15B22;
+    padding: 0.7em;
+    color: white;
+    width: 33%;
+    text-align: center;
+}
+
+.bonus-part-image2 {
+    background-color: #413b41;
+    padding: 0.7em;
+    color: white;
+    width: 33%;
+    text-align: center;
+}
+
+.bonus-part-image3 {
+    background-color: #825c4d;
+    padding: 0.7em;
+    color: white;
+    width: 33%;
+    text-align: center;
+}
+
+/* bonus-part design  end*/
 
 /* gradient-part design :start */
 .gradient-container {
-    margin: 0px 20% 4em 20%;
+    margin: 3em 20% 4em 20%;
 
     background-image: linear-gradient(to left, rgba(252, 246, 245, 0.52), rgba(117, 19, 93, 0.73)), url("/new-year-new-me/images/watch.png");
     background-size: 100% 100%;
